@@ -1,6 +1,5 @@
 # Bending-AR-HoloLens
 
-## Description
 This project is an Augmented Reality (AR) application designed for the Microsoft HoloLens. The primary purpose of this application is to assist mechanics students in learning about the bending properties of a beam. 
 
 ## Features
